@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Button } from 'react-native'
 const HomeScreen = (props) => {
     return (
         <View style={styles.root}>
-            <Text>Helo ini halaman HomeScreen</Text>
+            <Text>HomeScreen</Text>
         </View>
     )
 }

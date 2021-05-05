@@ -1,15 +1,15 @@
 import React from 'react'
-import { View, Text, StyleSheet, Button } from 'react-native'
+import { View, Text, StyleSheet } from 'react-native'
 
-const HomeScreen = (props) => {
+const SettingScreen = () => {
     return (
         <View style={styles.root}>
-            <Text>Helo ini halaman HomeScreen</Text>
+            <Text>SettingScreen</Text>
         </View>
     )
 }
 
-export default HomeScreen
+export default SettingScreen
 
 const styles = StyleSheet.create({
     root: {

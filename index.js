@@ -35,7 +35,8 @@ Navigation.setDefaultOptions({
     bottomTabs: {
         titleDisplayMode: 'alwaysShow',
         animate: false,
-        animateTabSelection: false
+        animateTabSelection: false,
+        fontFamily: 'helvetica'
     },
     statusBar: {
         backgroundColor: 'whitesmoke',
